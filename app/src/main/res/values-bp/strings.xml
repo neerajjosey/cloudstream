@@ -10,7 +10,7 @@
     <string name="next_episode_time_min_format" formatted="true">%dm</string>
     <!-- IS NOT NEEDED TO TRANSLATE AS THEY ARE ONLY USED FOR SCREEN READERS AND WONT SHOW UP TO NORMAL USERS -->
     <string name="result_poster_img_des">Poster</string>
-    <string name="search_poster_img_des">@string/result_poster_img_des</string>
+    <string name="search_poster_img_des">Pôster</string>
     <string name="episode_poster_img_des">Episode Poster</string>
     <string name="home_main_poster_img_des">Main Poster</string>
     <string name="home_next_random_img_des">Next Random</string>
@@ -428,4 +428,5 @@
     <string name="autoplay_next_settings_des">Começa o próximo episódio quando o atual termina</string>
     <string name="enable_nsfw_on_providers">Ativar NSFW em fornecedores compatíveis</string>
     <string name="category_providers">Fornecedores</string>
+    <string name="revert">Reverter</string>
 </resources>
